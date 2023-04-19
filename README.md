@@ -23,7 +23,8 @@ import warnings
 warnings.filterwarnings('ignore')
 ```
 
-## Dataset Info
+## colab File Upload with Results
 
-(
+[](C:\Users\MY\OneDrive\Desktop\datsetinfo.jpeg)
+
 

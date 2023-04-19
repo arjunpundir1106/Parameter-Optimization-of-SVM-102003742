@@ -25,6 +25,6 @@ warnings.filterwarnings('ignore')
 
 ## colab File Upload with Results
 
-C:\Users\MY\OneDrive\Desktop\datasetinfo.jpeg
+![Dataset Info](./C:/Users/MY/OneDrive/Desktop/datasetinfo.jpeg)
 
 

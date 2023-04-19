@@ -42,6 +42,13 @@ _Final Results of optimization_
 |9	 |       0.83	    |      rbf	      |     2.42   |       5.35      |
 |10	 |       0.83	    |      poly	      |     2.17   |	   9.78      |
 
+_Best Resulted Accuracy_
+## Sample 5
+
+
+# Convergence Graph 
+
+![image](https://user-images.githubusercontent.com/72138112/233056025-8ce48b3d-3438-474c-b46e-046b5ec1451d.png)
 
 
 
